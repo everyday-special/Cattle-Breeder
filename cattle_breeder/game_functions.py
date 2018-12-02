@@ -132,9 +132,6 @@ def check_keydown_events(cb_settings, event, farmer, herd, genotypes, screen, wo
 		sell_cow(cb_settings, herd)
 	elif event.key == pygame.K_b:
 		buy_cow(cb_settings, herd, genotypes, screen)
-	elif event.key == pygame.K_w:
-		wolf = Wolf(cb_settings, screen)
-		wolf_pack.add(wolf)
 	elif event.key == pygame.K_p:
 		if cb_settings.active == False:
 			cb_settings.active = True
