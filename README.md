@@ -4,7 +4,7 @@ My submission for the 2018 Github Game Jam
 The game file is 'hybrid_game.py'. You need pygame to run.
 
 Game Description:
-GOAL: Collect a cow of each color. There are 12 cow colors: White, Brown, Black, Blue, Red, Yellow, Orange, Green, Purple, Brown with Black spots, White with Brown spots and White with Black spots. Mating cows of different colors may lead to different color combinations!
+GOAL: Collect a cow of each color. There are 12 cow colors: White, Brown, Black, Blue, Red, Yellow, Orange, Green, Purple, Brown with Black spots, White with Brown spots and White with Black spots. Mating cows of different colors may lead to different color combinations. Color groups display different patterns of inheritance such as co-dominance, incomplete dominance and traditional dominance. Try to figure out how the different colors are inherited!
 
 Mate and buy cows to get one of each type.
 
@@ -29,3 +29,5 @@ CONTROLS:
 -Hit 'p' to pause/play the game
 
 -Hit 'q' to quit the game.
+
+Thank you for reading and enjoy the game!
